@@ -1,0 +1,1 @@
+{"name":"Local: Y_Range_sum_query","url":"d:\\CSE\\CPS_Academy\\Data_stracture\\partial_sum\\Y_Range_sum_query.cpp","tests":[{"id":1715971885286,"input":"6 3\n6 4 2 7 2 7\n1 3\n3 6\n1 6","output":"12\n18\n28"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSE\\CPS_Academy\\Data_stracture\\partial_sum\\Y_Range_sum_query.cpp","group":"local","local":true}
